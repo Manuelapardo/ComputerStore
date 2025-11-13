@@ -29,7 +29,7 @@ Durante la instalación de PostgreSQL, configura:
 - **Puerto:** `5432`
 - **Base de datos inicial:** `postgres`
 
-## ??? Instalación y Configuración
+##  Instalación y Configuración
 
 ### Opción 1: Instalación Automática (Windows)
 
